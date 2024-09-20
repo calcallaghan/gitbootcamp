@@ -1,7 +1,5 @@
-This is repository with the source code for the learning course by Andrii Piatakha.
-It is not allowed to copy code and any commercial use (for example in other learning courses etc) without written approval from Andrii Piatakha.
+This repository is being set up so that I can test my work with git, mostly on the command line, and become more familiar with the tools.
 
-Only students of Andrii Piatakha can use these code examples. 
-Thanks for respecting hard work of the author.
+My main aim is to build fluency with git and other DevOps tools, both for my own enjoyment, and for the purpose of being a better Product Manager for DevTools.
 
-2024 © Andrii Piatakha
+2024 © Cal Callaghan
